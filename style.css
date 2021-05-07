@@ -1,0 +1,85 @@
+.body
+{background-color: black;
+}
+.heading1
+{
+    text-align: center;
+    position: relative;
+    top: 200px;
+    font-size: 40px;
+    color:rgb(188, 173, 214);
+}
+.table
+{
+    color:rgb(188, 173, 214);
+    position: relative;
+    top: 200px;
+    font-size: 40px;
+}
+.table td
+{
+    display: inline-block;
+    height: 40px;
+    position: relative;
+    left: 156%;
+}
+.page
+{
+    color:white;
+    background-color: blue;
+    padding-left : 10px;
+    border-color: black;
+    border-radius: 5px;
+    border-width: 2px;
+    font-size: 25px;
+    padding-right:10px ;
+    position: relative;
+    left: 40%;
+    top:230px;
+}
+.ox
+{
+    position:relative;
+    top:150px;
+    left:35%;
+    background-color: white;
+
+}
+.row
+{
+    background-color: white;
+    color: rgb(230, 10, 113);
+    font-size: 50px;
+}
+.nrow
+{
+    background-color: rgb(161, 161, 58);
+    color: rgb(230, 10, 113);
+    font-size: 50px;
+}
+p
+{
+    border: 2%;
+    background-color: white;
+    color: black;
+    font-size: 25px;
+    position:relative;
+    top: 150px;
+    text-align: center;
+}
+
+.pager
+{
+    color: white;
+    background-color: blue;
+    padding-left : 10px;
+    border-color: black;
+    border-radius: 5px;
+    border-width: 2px;
+    font-size: 25px;
+    padding-right:10px ;
+    position: relative;
+    left: 40%;
+    top:170px;
+}
+
